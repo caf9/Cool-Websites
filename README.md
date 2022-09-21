@@ -2,6 +2,8 @@
 A list of awesome websites that blew my mind when i first visited them!
 
 Top 10 <br />
+https://academy.mercdev.com <br />
+https://www.wecargo.be <br />
 https://www.vega.dk/ <br />
 https://corefestival.com/ <br />
 https://qoko.co.uk/ <br />
@@ -24,6 +26,7 @@ https://www.iiipoints.com/ <br />
 
 https://www.boardmasters.com/ <br />
 https://www.houghtonfestival.co.uk/ <br />
+https://gyro.no <br />
 
 Other <br />
-
+https://www.awwwards.com <br />
